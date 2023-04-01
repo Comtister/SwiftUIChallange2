@@ -11,6 +11,7 @@
 		218AA0F829D317F000371347 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 218AA0F729D317F000371347 /* ContentView.swift */; };
 		218AA0FA29D317F400371347 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 218AA0F929D317F400371347 /* Assets.xcassets */; };
 		218AA0FD29D317F400371347 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 218AA0FC29D317F400371347 /* Preview Assets.xcassets */; };
+		218AA12329D86C3400371347 /* BasicButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 218AA12229D86C3400371347 /* BasicButtonStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		218AA0F729D317F000371347 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		218AA0F929D317F400371347 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		218AA0FC29D317F400371347 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		218AA12229D86C3400371347 /* BasicButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicButtonStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				218AA0F729D317F000371347 /* ContentView.swift */,
 				218AA0F929D317F400371347 /* Assets.xcassets */,
 				218AA0FB29D317F400371347 /* Preview Content */,
+				218AA12229D86C3400371347 /* BasicButtonStyle.swift */,
 			);
 			path = SwiftUIChallange2;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				218AA12329D86C3400371347 /* BasicButtonStyle.swift in Sources */,
 				218AA0F829D317F000371347 /* ContentView.swift in Sources */,
 				218AA0F629D317F000371347 /* SwiftUIChallange2App.swift in Sources */,
 			);
